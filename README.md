@@ -1,2 +1,1 @@
-# bollinger-bands
-Bollinger Bands indicator
+changes to nac_giiqf
